@@ -85,7 +85,7 @@ disqusShortname = ''
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Dev Recon"
   name = "Dev Recon"
-  description = "A fast, minimalistic Hugo theme with light and dark mode support, for running a personal site or blog."
+  description = "Coding tips and anecdotal stories from the developer front"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
