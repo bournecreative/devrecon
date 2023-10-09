@@ -1,6 +1,6 @@
 ---
 title: About
-description: 'Hugo, the world''s fastest framework for building websites'
+description: "devrecon.com, Coding tips, how to's and anecdotal stories from the developer front lines. About."
 author: Hugo Authors
 ---
 
